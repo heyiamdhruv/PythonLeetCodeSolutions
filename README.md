@@ -8,8 +8,6 @@ Welcome to PythonLeetCodeSolutions repository! This repository aims to provide a
 
 ## Repository Structure
 
-The repository is organized in a structured manner to facilitate easy navigation and exploration. Here's an overview of the directory structure:
-
 The problems are categorized into three directories based on their difficulty level: 
 Easy, Medium, and Hard. 
 
